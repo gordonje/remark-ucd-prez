@@ -1,0 +1,27 @@
+h1 em {
+    color: #3FA5BF;
+    font-style: normal;
+}
+
+.image-40 img {
+  width: 40%;
+  float: left;
+}
+
+.image-50 img {
+  width: 50%;
+  float: left;
+}
+
+blockquote {
+    font-style: italic;
+    margin-top: 16%;
+    margin-left: 10%;
+    text-align: right;
+    font-size: 1.3em;
+}
+
+.quote-attribution {
+    text-align: right;
+    float: right;
+}

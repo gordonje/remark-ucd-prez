@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="727px" height="433px" viewBox="0 0 727 433" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Desktop HD</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="linear-innovation" transform="translate(9.000000, 66.000000)">
+            <g id="good-intentions">
+                <text id="😇" font-family="AppleColorEmoji, Apple Color Emoji" font-size="45" font-weight="normal" fill="#000000">
+                    <tspan x="0.276595745" y="179">😇</tspan>
+                </text>
+                <text id="Good-intentions" font-family="Monaco" font-size="26" font-weight="normal" fill="#000000">
+                    <tspan x="15.480957" y="25.9999">Good intentions</tspan>
+                </text>
+                <path d="M23.5765957,124.9999 L22.5851064,40" id="Line-2" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+            </g>
+            <g id="great-idea" transform="translate(164.000000, 54.000000)">
+                <text id="💡" font-family="AppleColorEmoji, Apple Color Emoji" font-size="45" font-weight="normal" fill="#000000">
+                    <tspan x="0.643312102" y="125">💡</tspan>
+                </text>
+                <text id="Great-idea" font-family="Monaco" font-size="26" font-weight="normal" fill="#000000">
+                    <tspan x="15.9873047" y="26">Great idea</tspan>
+                </text>
+                <path d="M24,70.9999 L24,38" id="Line-2" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+            </g>
+            <g id="goal" transform="translate(606.000000, 54.000000)">
+                <text id="🏆" font-family="AppleColorEmoji, Apple Color Emoji" font-size="45" font-weight="normal" fill="#000000">
+                    <tspan x="2" y="125">🏆</tspan>
+                </text>
+                <text id="Goal!" font-family="Monaco" font-size="26" font-weight="normal" fill="#000000">
+                    <tspan x="16.9936523" y="26">Goal!</tspan>
+                </text>
+                <path d="M25.5,70.9999 L25.5,38" id="Line-2" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+            </g>
+            <g id="arrow" transform="translate(22.000000, 180.000000)" fill-rule="nonzero" stroke="#000000">
+                <path d="M0.558219178,12.5 L651.441781,12.5" id="Line" stroke-width="5" stroke-linecap="square"></path>
+                <polygon id="Triangle" fill="#000000" transform="translate(644.000000, 12.000000) rotate(90.000000) translate(-644.000000, -12.000000) " points="644 -3 656 27 632 27"></polygon>
+            </g>
+            <text id="🚀" font-family="AppleColorEmoji, Apple Color Emoji" font-size="45" font-weight="normal" fill="#000000">
+                <tspan x="165" y="244">🚀</tspan>
+            </text>
+            <path d="M186.496815,289.9999 L186.496815,257" id="Line-2" stroke="#000000" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+            <text id="Hot-new-tech" font-family="Monaco" font-size="26" font-weight="normal" fill="#000000">
+                <tspan x="173.884766" y="323">Hot new tech</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
